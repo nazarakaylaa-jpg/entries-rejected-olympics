@@ -8,7 +8,7 @@ A make.fun bounty entry: one funny single-line sport the Olympics turned down �
 
 ## The entry
 
-> Synchronized Drowning: teams of four sink in perfect unison; judges deduct points for anyone who comes up for air.
+> Synchronized Drowning: eight athletes sink in perfect unison; the gold goes to the team that stays down longest.
 
 ## How it works
 
@@ -18,7 +18,7 @@ A make.fun bounty entry: one funny single-line sport the Olympics turned down �
 node main.ts
 ```
 
-The joke: a straight parody of synchronised swimming, in the same broadcast language — teams of four, perfect unison, judges deducting points — with the sting at the end: in this event, surfacing for air is the foul.
+The joke: a straight parody of synchronised swimming, in the same broadcast language — eight athletes, perfect unison, the gold — with the sting at the end: in this event, the win condition is staying underwater longest.
 
 ## License
 
